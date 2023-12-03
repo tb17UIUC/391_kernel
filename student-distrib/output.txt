@@ -1,0 +1,15 @@
+Makefile:39: Makefile.dep: No such file or directory
+make: Warning: File `keyboard.c' has modification time 2.5e+03 s in the future
+make: Warning: File `Makefile.dep' has modification time 3e+03 s in the future
+sudo: Can't open /var/run/sudo/user/tty1: Read-only file system
+mkdir: cannot create directory `/mnt/tmpmp3': Read-only file system
+mkdir: cannot create directory `/tmp/mp3': Read-only file system
+cp: cannot create regular file `/tmp/mp3/': Is a directory
+cp: cannot create regular file `/tmp/mp3/': Is a directory
+cp: cannot create regular file `/tmp/mp3/': Is a directory
+/tmp/mp3/mp3.img: No such file or directory
+cp: cannot stat `/tmp/mp3/bootimg': No such file or directory
+cp: cannot stat `/tmp/mp3/filesys_img': No such file or directory
+umount: /mnt/tmpmp3: not found
+cp: cannot stat `/tmp/mp3/mp3.img': No such file or directory
+make: warning:  Clock skew detected.  Your build may be incomplete.
